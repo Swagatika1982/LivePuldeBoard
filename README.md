@@ -122,8 +122,8 @@ PulseBoard/
 │   │   │   └── api.js
 │   │   │
 │   │   ├── components/
-│   │   │   ├── ProtectedRoute.jsx
 │   │   │   ├── Navbar.jsx
+│   │   │   ├── ProtectedRoute.jsx
 │   │   │   ├── PollCard.jsx
 │   │   │   └── AnalyticsCard.jsx
 │   │   │
@@ -159,7 +159,7 @@ PulseBoard/
 │   │   ├── User.js
 │   │   ├── Poll.js
 │   │   └── Response.js
-│   │
+│   ├── mode_module
 │   ├── routes/
 │   │   ├── authRoutes.js
 │   │   ├── pollRoutes.js
@@ -169,17 +169,11 @@ PulseBoard/
 │   ├── package.json
 │   └── server.js
 │
-├── screenshots/
-│   ├── login.png
-│   ├── dashboard.png
-│   ├── create-poll.png
-│   ├── analytics.png
-│   └── results.png
-│
 ├── .gitignore
+├── mode_module
 ├── README.md
+├── package.json
 └── package-lock.json
-```
 
 ---
 
